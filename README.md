@@ -1,2 +1,3 @@
-# anti_money_laundering
-Performing an analysis on easily available datasets in finance sectors and lead our hypothesis in multiple use cases
+# Natural Language Processing Projects and PoC's
+Performing analysis on various problem statements under the hood of NLP
+1. Named Entity Recognition
